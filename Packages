@@ -17,8 +17,8 @@ Name: Snapbreak
 Package: com.yoo0x.ytmusic
 Version: 3.0.4
 Architecture: iphoneos-arm
-Maintainer: yoxoo <https://twitter.com/yox_oo>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Maintainer: yoxoo <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 Filename: ./debs/com_yoo0x_ytmusic_3_0_4_iphoneos-arm.deb
 Size: 11642
 MD5sum: 92d96c97e05d9f06856be8f7411dd469
@@ -26,6 +26,6 @@ SHA1: 687ace859701a833367560217b4cef790f574df5
 SHA256: 6d35a00ce1306db1381b4923acc823cd1aa1f8e51921ef717042605b07751345
 Section: Tweaks
 Description: 1.Background Playback                                                                 2.No Ad                                                                                       3.Audio Only for Background                                                     4.Audui/Video Switch Button                                                    1.背景播放                                                                                   2.無廣告                                                                                      3.音頻模式（用於背景播放）                                                      4.音頻/視頻模式切換                                                                                       ١.تشغيل الصوت في الخلفية                                                                                       ٢.بدون اعلانات                                                                                       ٣.النقر المزدوج لتقديم ١٠ثواني                                                                                       ٤.التبديل ما بين الفيديو والصوره 
-Author: yoxoo <https://twitter.com/yox_oo>
-Depiction: https://yoxoo.github.io/yoxo/ytmusicxx/
+Author: yoxoo <.clinton@icloud.com>
+Depiction: https://yoxoo.github.io/yoxo/depictions/ytmusicxx/
 Name: YT Musicxx
